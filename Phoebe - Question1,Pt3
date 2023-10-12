@@ -1,2 +1,19 @@
 #Just gonna start working here
 #Testing if the file even saves lol
+
+#Question
+#Solve the 3 DoF equations of motion of the airplane. The simulation should start from a 
+#trim initial condition and then compute the response of the system to time-dependent
+#commands such as a variation of the thrust T and elevator angle δE , or a combination of
+#the two
+
+#What we know: 
+#Coeffcients for Cl,Cm, Cd from pt 1. 
+#Angle of attack, thrust, and elevator angle from pt 2.
+
+#Need to know...
+#What 3 eqns are the DoF eqns of motion?
+#What are the trim intial conditions?
+#What are the trim intial conditions
+#If we need a variation of thrust and elevator angle, will we get a variation of values from pt2 or just one set value?
+#'Time dependent Commands' - how much time lol?
